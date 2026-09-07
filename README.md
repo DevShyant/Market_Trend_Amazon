@@ -26,4 +26,4 @@ An end-to-end interactive Power BI dashboard analyzing Amazon sales data — unc
 This dashboard empowers stakeholders to identify top-performing sales channels, optimize delivery strategy, understand festival-driven sales spikes, and tailor marketing by customer demographics — all through one clean, interactive interface.
 
 ✨ This is how our dashboard look like
- open the link()
+ open the link(https://github.com/DevShyant/Market_Trend_Amazon/blob/main/Dashboard_Amazon_market_trend.png)
